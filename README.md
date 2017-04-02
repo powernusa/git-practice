@@ -8,4 +8,7 @@
 alt="IMAGE ALT TEXT HERE" width="720" height="540" border="10" /></a>
 
 <br>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/z6viZHWIwRU/0.jpg)](http://www.youtube.com/watch?v=z6viZHWIwRU)
+
+
+<br>
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/z6viZHWIwRU?t=35s "Everything Is AWESOME")
