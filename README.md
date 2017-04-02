@@ -6,3 +6,6 @@
 <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=z6viZHWIwRU" target="_blank"><img src="http://img.youtube.com/vi/z6viZHWIwRU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="720" height="540" border="10" /></a>
+
+<br>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/z6viZHWIwRU/0.jpg)](http://www.youtube.com/watch?v=z6viZHWIwRU)
