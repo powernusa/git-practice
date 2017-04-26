@@ -7,7 +7,4 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=z6viZHWIwRU" target="_blank"><img src="http://img.youtube.com/vi/z6viZHWIwRU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="720" height="540" border="10" /></a>
 
-<br>
-
-
-<br>
+![animated_design](https://cloud.githubusercontent.com/assets/13763933/25449800/22eeb386-2ae7-11e7-82e1-7f883b31c710.gif)
