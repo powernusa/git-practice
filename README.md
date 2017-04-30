@@ -15,4 +15,5 @@ alt="better youtube text here" width="720" height="540" border="10" /></a>
 
 ### PowerMovies app
 
-<img width="40%" border="10" src="https://cloud.githubusercontent.com/assets/13763933/25564424/3cdd1186-2ddd-11e7-8730-e020770cd6f2.jpg"/> <img width="40%" src="https://media.giphy.com/media/3o7bujOQtZ9mrKokRq/giphy.gif"/>
+<img width="40%" border="30" src="https://cloud.githubusercontent.com/assets/13763933/25564424/3cdd1186-2ddd-11e7-8730-e020770cd6f2.jpg"/> <img width="40%" src="https://media.giphy.com/media/3o7bujOQtZ9mrKokRq/giphy.gif"/>
+<img width="80%" border="30" src="https://cloud.githubusercontent.com/assets/13763933/25564508/e9bc7274-2dde-11e7-8e9d-27c9e6a23f16.jpg"/>
