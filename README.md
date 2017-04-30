@@ -13,7 +13,6 @@ alt="youtube 2 text here" width="720" height="540" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=mge_SObANsY" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13763933/25450261/84eb930a-2ae8-11e7-9904-767d156d9a46.png" 
 alt="better youtube text here" width="720" height="540" border="10" /></a>
 
-###PowerMovis app
+### PowerMovies app
 
-<img width="40%" src="https://cloud.githubusercontent.com/assets/13763933/25564424/3cdd1186-2ddd-11e7-8730-e020770cd6f2.jpg"/><img width="40%" src="https://media.giphy.com/media/3o7bujOQtZ9mrKokRq/giphy.gif"/>
-![powermovies-anim](https://media.giphy.com/media/3o7bujOQtZ9mrKokRq/giphy.gif)
+<img width="40%" border="10" src="https://cloud.githubusercontent.com/assets/13763933/25564424/3cdd1186-2ddd-11e7-8730-e020770cd6f2.jpg"/> <img width="40%" src="https://media.giphy.com/media/3o7bujOQtZ9mrKokRq/giphy.gif"/>
